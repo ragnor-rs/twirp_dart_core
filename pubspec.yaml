@@ -12,7 +12,7 @@ dependencies:
   requester:
     git:
       url: https://github.com/ragnor-rs/requester.git
-      ref: 54ffd61703051ab1800371371a85ef80f6768251
+      ref: d87c25757a42c6953ace306c1337054f5f1de0e9
 
 dev_dependencies:
   test: ^1.0.0
