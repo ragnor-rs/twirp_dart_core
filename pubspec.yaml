@@ -11,7 +11,7 @@ dependencies:
   http: ^0.12.1
   requester:
     git:
-      url: https://github.com/ragnor-rs/requester.git
+      url: https://github.com/severgroup-tt/requester.git
       ref: 25304619a6ef33ac987acfcf09ec9838f07b8049
 
 dev_dependencies:
